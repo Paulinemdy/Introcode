@@ -1,0 +1,40 @@
+Mise en forme 
+/* style.css */
+
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+	font-size: 1em;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+#title{
+	font-size: 50px; 
+}
+
+
+h2 {
+font-family: 'Dosis', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+	font-family: 'Dosis', sans-serif;
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
