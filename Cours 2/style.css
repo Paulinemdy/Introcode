@@ -14,8 +14,8 @@ font-family: 'Montserrat', sans-serif;
 }
 
 h1{
-font-family: 'Montserrat', sans-serif;
-  color: red;
+font-family: 'Pacifico', cursive;
+  color: pink;
   font-weight: lighter;
   font-size: 10px;
 }
@@ -26,10 +26,18 @@ font-family: 'Montserrat', sans-serif;
 
 h2 {
 font-family: 'Dosis', sans-serif;
-  color: pink;
+  color: red;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 50px;
 }
+
+p{
+font-family: 'Dosis', sans-serif;
+color:green;
+font-weight: lighter;
+font-size:30px;
+}
+
 a {
 	font-family: 'Dosis', sans-serif;
   color: blue;
